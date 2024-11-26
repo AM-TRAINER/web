@@ -208,7 +208,7 @@ header{
     background: #fff;
     border-radius: 0.5rem;
     max-width: 370px;
-    margin-left:3px;
+    margin-left:7px;
 }
 .course-container .box:hover{
     transform: scale(1.05);
